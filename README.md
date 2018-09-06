@@ -1,2 +1,2 @@
 # test
-AAA master
+AAA
